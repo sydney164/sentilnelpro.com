@@ -1,0 +1,71 @@
+<!-- PRICING
+        ================================================== -->
+        <section>
+            <div class="container">
+                <div class="row justify-content-center mt-n1-9">
+                    <div class="col-lg-6 col-xxl-5 mt-1-9">
+                        <div class="section-title01 mb-1-9 mb-lg-2-9 wow fadeInUp" data-wow-delay="100ms">
+                            <span>Flexible Pricing</span>
+                            <h2 class="mb-0 display-4 font-weight-800 lh-1 ls-minus-2px">Tailored pricing plans for everyone</h2>
+                        </div>
+                        <p class="wow fadeInUp" data-wow-delay="150ms">Tremendous involvement with power departure, land master curement, liaisoning and working with state. An ideal mix of worldwide experience and skill to additional.</p>
+                        <p class="mb-1-9 text-primary wow fadeInUp" data-wow-delay="200ms">- Prolio got you covered.</p>
+                        <a href="https://proliohtml.websitelayout.net/pricing.html" class="btn-style3 wow fadeInUp" data-wow-delay="250ms">Read More</a>
+                    </div>
+                    <div class="col-lg-6 col-xl-5 offset-xl-1 offset-xxl-2 mt-1-9">
+                        <div id="accordion1" class="accordion-style style02">
+                            <div class="card mb-3 wow fadeInUp" data-wow-delay="100ms">
+                                <div class="card-header" id="headingOne1">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link" data-bs-toggle="collapse" data-bs-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne1">Basic Plan</button>
+                                    </h5>
+                                </div>
+                                <div id="collapseOne1" class="collapse show" aria-labelledby="headingOne1" data-bs-parent="#accordion1">
+                                    <div class="card-body">
+                                        <p class="text-white opacity6">Tempora incidunt ut labore et dolore exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                        <div class="d-sm-flex justify-content-between align-items-center">
+                                            <h5 class="text-white mb-4 mb-sm-0 ls-minus-1px"><span>$</span>59.00<span>/ Monthly</span></h5>
+                                            <a href="https://proliohtml.websitelayout.net/contact.html" class="btn-style3 small white">Get started</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card mb-3 wow fadeInUp" data-wow-delay="150ms">
+                                <div class="card-header" id="headingTwo1">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseTwo1" aria-expanded="false" aria-controls="collapseTwo1">Business Plan</button>
+                                    </h5>
+                                </div>
+                                <div id="collapseTwo1" class="collapse" aria-labelledby="headingTwo1" data-bs-parent="#accordion1">
+                                    <div class="card-body">
+                                        <p class="text-white opacity6">Tempora incidunt ut labore et dolore exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                        <div class="d-sm-flex justify-content-between align-items-center">
+                                            <h5 class="text-white mb-4 mb-sm-0 ls-minus-1px"><span>$</span>189.00<span>/ Monthly</span></h5>
+                                            <a href="https://proliohtml.websitelayout.net/contact.html" class="btn-style3 small white">Get started</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="card wow fadeInUp" data-wow-delay="200ms">
+                                <div class="card-header" id="headingThree1">
+                                    <h5 class="mb-0">
+                                        <button class="btn btn-link collapsed" data-bs-toggle="collapse" data-bs-target="#collapseThree1" aria-expanded="false" aria-controls="collapseThree1">Professional Plan</button>
+                                    </h5>
+                                </div>
+                                <div id="collapseThree1" class="collapse" aria-labelledby="headingThree1" data-bs-parent="#accordion1">
+                                    <div class="card-body">
+                                        <p class="text-white opacity6">Tempora incidunt ut labore et dolore exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                        <div class="d-sm-flex justify-content-between align-items-center">
+                                            <h5 class="text-white mb-4 mb-sm-0 ls-minus-1px"><span>$</span>259.00<span>/ Monthly</span></h5>
+                                            <a href="https://proliohtml.websitelayout.net/contact.html" class="btn-style3 small white">Get started</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+       
